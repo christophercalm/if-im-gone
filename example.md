@@ -1,53 +1,56 @@
-# Some Useful Information for if I am gone or mentally incapacitated
-The information should be in order of importance. 
+# If I'm Incapacitated Cheat Sheet
 
 - ## Passwords and Physical Access
-  
+  *explain how to access your saved passwords as well as locations to important keys or other physical security codes*
+  - ### 2FA:
+    - *List codes and how to access*
+  - ### Password Manager(s):
+    - Username:
+    - Password:
+  - ### Physical Access:
 
 - ## Finances:
-  - ### Bank and credit card accounts
-  - ### How to Access Crypto:
+  - ### Bank, HSA, and Credit Card Accounts:
+    - | Name/Institution      | Account Number/Routing Number |
+      | ----------- | ----------- |
+      | Example Bank      |  123456789/1200      |
+      | Example Card   | 12300 000 0000 0000        |
   - ### How to Access Retirement Funds:
-  - ### Mortgage
-  - ### Other Debts
+    - *Clear instructions on how to access*
+
+  - ### How to Access Crypto:
+    - *Clear instructions on how to access*
+  - ### Mortgage:
+    - Servicer:
+    - Account Number:
+    - Payment Date:
+  - ### Other Debts:
+    - *List all other debts that may need to be paid*
+  - ### Budgeting Information:
+    - *List Quickbooks/YNAB account username and how to access*
 
 
 - ## Utilities:
-  - ### Phone Service Information
-  - ### Electric Information
-  - ### Gas
-  - ### Water
+  - ### Phone Service:
+  - ### Electric:
+  - ### Gas:
+  - ### Water:
 
 - ## Important Documents:
-  - ### Life insurance policy
-  - ### Birth certificate
-  - ### Marriage license
-  - ### Automobile titles
+  - ### Life Insurance Policy
+  - ### Birth Certificate
+  - ### Marriage License
+  - ### Automobile Titles
+  - ### Property Deeds
 
 
 - ## Incapacitation Related Legal Documents:
   -  ### Will
   -  ### Living trust
-  -  ### Power of attorney
+  -  ### Power of Attorney
 
 - ## Important Notes:
-    ### You do not have to pay off my student loans 
-    "Federal student loans are not passed on to anyone in your family or even your estate. If you die, your federal student debt is instead fully forgiven and is no longer owned or owed by anyone. Someone will need to provide proof of death to the student loan servicer managing the debt to get it discharged after death."
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
 
-
-
-
-
-
-
-
-
-
-
-
-
-### Property deeds
-
-Important notes:
 
 
