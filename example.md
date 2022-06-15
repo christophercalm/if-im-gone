@@ -1,5 +1,7 @@
 # Household/Estate Cheat Sheet
 
+Last updated: *write current date here*
+
 - ## Passwords and Physical Access
   *explain how to access your saved passwords as well as locations to important keys or other physical security codes*
   - 2FA:
