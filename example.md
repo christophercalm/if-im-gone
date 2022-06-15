@@ -51,5 +51,6 @@ Last updated: *write current date here*
 - ### Important Notes:
   - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
 
-
+- ### Things to Remember:
+  - Note down things they shouldn't forget.
 
