@@ -49,6 +49,8 @@ Last updated: *write current date here*
   -  Power of Attorney
 
 - ### Important Notes:
+  - If you are gone, somebody tells about this to some online commutities which are important to you:
+    - *[nickname, forum, whatToSay, answerToExpect]*
   - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
 
 
